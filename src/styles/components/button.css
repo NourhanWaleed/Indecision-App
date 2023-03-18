@@ -2,7 +2,7 @@
 .big-button {
   background: #8357c5;
   border: none;
-  border-bottom: .6rem solid darken(#8357c5, 10%);
+  border-bottom: .6rem solid darken(#8357c5, 0%);
   color: white;
   font-weight: bold;
   font-size: 3.2rem;
